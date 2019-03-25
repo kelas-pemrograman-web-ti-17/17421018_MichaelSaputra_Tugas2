@@ -1,0 +1,23 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+
+body{
+
+  color: white;
+  background: url('../images/BG.jpg') no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+button{
+  background-color: red;
+}
+
+.A{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+#B{
+  background-color: blue;
+}
